@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 21 21:43:47 2021
 
-@author: dell
+@author: Zemin Shi
 """
 import os
 import matplotlib.pyplot as plt
